@@ -1,2 +1,1 @@
-# TeaProject
-[TeaProject Link](https://lashareichert.github.io/TeaProject/TeaProject/)
+# [TeaProject Link](https://bulatsashviliLasha.github.io/TeaProject/TeaProject/)
